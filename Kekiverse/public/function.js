@@ -20,23 +20,12 @@ function sendText() {
             window.location.assign(xhttp.responseURL);
         }
         else if (xhttp.status == 404) {
-            window.location.assign("http://localhost:5000/%22*%22");
+            window.location.assign("http://localhost:3000/%22*%22");
             console.log("No matching record found")
         }
     }
 
     // Send the request and wait for the response
     xhttp.send(JSON.stringify(dict));
-
-}
-
-
-function ClickYou() {
-
-    var searchButton = document.getElementById('navbar-search-button');
-
-    if (searchButton) {
-        searchButton.addEventListener('click', sendText);
-    }
 
 }

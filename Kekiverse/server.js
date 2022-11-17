@@ -29,9 +29,9 @@ for (data of jsonData) {
 
 app.get('/', (req, res) => {
   if(kekData) {
-    res.status(200).render('kekiverse', { 
+    res.status(200).render('noun', { 
       RenderShit: true,
-      kekData: [kekData[0]] 
+      kekData: kekDict["Welcome to Kekiverse"]
     }) 
   }
 });
