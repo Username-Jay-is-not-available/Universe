@@ -13,11 +13,11 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/Username-Jay-is-not-available/Kekiverse" 
+      "url": "https://github.com/Username-Jay-is-not-available/Universe" 
     },
     "author": "",
     "license": "MIT",
-    "homepage": "https://github.com/Username-Jay-is-not-available/Kekiverse/blob/main/README.md",
+    "homepage": "https://github.com/Username-Jay-is-not-available/Universe/blob/main/README.md",
     "dependencies": {
       "express": "^4.18.1",
       "cors": "^2.8.5"
