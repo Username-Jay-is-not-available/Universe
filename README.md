@@ -1,4 +1,4 @@
-# Kekiverse
+# Universe
 Project for software
 
 10/17/22:
@@ -11,3 +11,6 @@ I added all the files that would be the basis for my project. Still need to add 
 
 11/16/22
 Implemented my partner's microservice. The microservice improved server.js and added function.js. The search feature of the microservice is now much more friendly to users. 
+
+11/24/22
+Implemented the ability to search nouns of the same name. Brings you to a page where you can search the specific franchise/story they appear in to get an accurate description and picture for that instance. I added a link that will take you to where you can view the media the noun belongs to. 
