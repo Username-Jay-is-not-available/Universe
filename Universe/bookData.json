@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Batman",
+        "books": [
+            {
+                "book": "Batman Beyond",
+                "link": "http://localhost:3000/Batman%20Batman%20Beyond"
+            },
+            {
+                "book": "Justice League Unlimited",
+                "link": "http://localhost:3000/Batman%20Justice%20League%20Unlimited"
+            }
+
+        ]
+    }
+]

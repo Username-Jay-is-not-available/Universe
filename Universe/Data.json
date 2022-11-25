@@ -1,0 +1,26 @@
+[
+{
+    "noun": "Welcome to Universe",
+    "franchise": "The fictional database",
+    "description": "Here, you can search for any noun from your favorite shows/books to get some basic imformation about it",
+    "image": "images/mainimage.png",
+    "link": "",
+    "book": ""
+},
+{
+    "noun": "Batman",
+    "franchise": "DC Animated Universe",
+    "description": "Bruce Wayne is a wealthy industrialist and philanthropist who, native to Gotham City, served as the President and CEO of Wayne Enterprises. Under the alias Batman, he secretly fought crime and injustice as a masked vigilante for many years and was a founding member of the Justice League, though he only ever operated as a part-timer.",
+    "image": "images/batman_jlu.jpg",
+    "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "book": "Justice League Unlimited"
+},
+{
+    "noun": "Batman",
+    "franchise": "DC Animated Universe",
+    "description": "Terrence 'Terry' McGinnis Wayne adopted the identity of Batman in the future following Bruce Wayne's retirement from the role. Like his predecessor and mentor, he fought crime and injustice in Gotham City and elsewhere for many years.",
+    "image": "images/batman_beyond.webp",
+    "link": "https://www.hbomax.com/series/urn:hbo:series:GX-I8owB7gYuxvgEAAAC6",
+    "book": "Batman Beyond"
+}
+]
